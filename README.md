@@ -71,3 +71,6 @@ pytest -q
 
 ## Git
 Commit incremental working milestones rather than a single final dump. Do not commit `.env`, keys, local DBs, or PDFs unless permitted by the assignment.
+
+## Submission email
+A copy-ready email template is available at `docs/SUBMISSION_EMAIL.md`. Replace the placeholders with your public GitHub URL and repository link to the approach document before sending.
